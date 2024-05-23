@@ -1,0 +1,707 @@
+# depslib dependency file v1.0
+1669378664 source:c:\users\pocho\desktop\taller i - lic. informática\archivo.cpp
+	<stdio.h>
+	"archivo.h"
+
+1669384330 c:\users\pocho\desktop\taller i - lic. informática\archivo.h
+	"stringdinamico.h"
+
+1676555636 c:\users\pocho\desktop\taller i - lic. informática\stringdinamico.h
+	"boolean.h"
+	<stdio.h>
+
+1661472700 c:\users\pocho\desktop\taller i - lic. informática\boolean.h
+
+1676555062 source:c:\users\pocho\desktop\taller i - lic. informática\boolean.cpp
+	<stdio.h>
+	"boolean.h"
+
+1676562816 source:c:\users\pocho\desktop\taller i - lic. informática\main.cpp
+	<stdio.h>
+	"archivo.h"
+	"fecha.h"
+
+1676562582 source:c:\users\pocho\desktop\taller i - lic. informática\fecha.cpp
+	<stdio.h>
+	"fecha.h"
+
+1676557214 c:\users\pocho\desktop\taller i - lic. informática\fecha.h
+	"stringdinamico.h"
+	<stdio.h>
+
+1676562788 source:c:\users\pocho\desktop\taller i - lic. informática\stringdinamico.cpp
+	<stdio.h>
+	"stringdinamico.h"
+
+1677003280 source:c:\users\pocho\desktop\taller i - lic. informática ultimo\archivo.cpp
+	<stdio.h>
+	"archivo.h"
+
+1669366330 c:\users\pocho\desktop\taller i - lic. informática ultimo\archivo.h
+	"stringdinamico.h"
+
+1677009402 c:\users\pocho\desktop\taller i - lic. informática ultimo\stringdinamico.h
+	"boolean.h"
+	<stdio.h>
+
+1661458300 c:\users\pocho\desktop\taller i - lic. informática ultimo\boolean.h
+
+1676537062 source:c:\users\pocho\desktop\taller i - lic. informática ultimo\boolean.cpp
+	<stdio.h>
+	"boolean.h"
+
+1677009681 source:c:\users\pocho\desktop\taller i - lic. informática ultimo\main.cpp
+	<stdio.h>
+	"archivo.h"
+	"fecha.h"
+	"comandos.h"
+
+1676539214 c:\users\pocho\desktop\taller i - lic. informática ultimo\fecha.h
+	"stringdinamico.h"
+	<stdio.h>
+
+1677002366 source:c:\users\pocho\desktop\taller i - lic. informática ultimo\fecha.cpp
+	<stdio.h>
+	"fecha.h"
+
+1677009325 source:c:\users\pocho\desktop\taller i - lic. informática ultimo\stringdinamico.cpp
+	<stdio.h>
+	"stringdinamico.h"
+
+1677009584 source:c:\users\pocho\desktop\taller i - lic. informática ultimo\comandos.cpp
+	<stdio.h>
+	"comandos.h"
+
+1677008325 source:c:\users\pocho\desktop\taller i - lic. informática ultimo\listastrings.cpp
+	<stdio.h>
+	"listastrings.h"
+
+1677006296 c:\users\pocho\desktop\taller i - lic. informática ultimo\listastrings.h
+	"stringdinamico.h"
+
+1677008712 c:\users\pocho\desktop\taller i - lic. informática ultimo\comandos.h
+	"listastrings.h"
+
+1677003280 source:c:\users\pocho\desktop\taller\taller i - lic. informática 21-02-23\archivo.cpp
+	<stdio.h>
+	"archivo.h"
+
+1669366330 c:\users\pocho\desktop\taller\taller i - lic. informática 21-02-23\archivo.h
+	"stringdinamico.h"
+
+1677026673 c:\users\pocho\desktop\taller\taller i - lic. informática 21-02-23\stringdinamico.h
+	"boolean.h"
+
+1661458300 c:\users\pocho\desktop\taller\taller i - lic. informática 21-02-23\boolean.h
+
+1676537062 source:c:\users\pocho\desktop\taller\taller i - lic. informática 21-02-23\boolean.cpp
+	<stdio.h>
+	"boolean.h"
+
+1677009584 source:c:\users\pocho\desktop\taller\taller i - lic. informática 21-02-23\comandos.cpp
+	<stdio.h>
+	"comandos.h"
+
+1677008712 c:\users\pocho\desktop\taller\taller i - lic. informática 21-02-23\comandos.h
+	"listastrings.h"
+
+1677006296 c:\users\pocho\desktop\taller\taller i - lic. informática 21-02-23\listastrings.h
+	"stringdinamico.h"
+
+1677027525 source:c:\users\pocho\desktop\taller\taller i - lic. informática 21-02-23\fecha.cpp
+	<stdio.h>
+	"fecha.h"
+
+1677023127 c:\users\pocho\desktop\taller\taller i - lic. informática 21-02-23\fecha.h
+	"stringdinamico.h"
+
+1677008325 source:c:\users\pocho\desktop\taller\taller i - lic. informática 21-02-23\listastrings.cpp
+	<stdio.h>
+	"listastrings.h"
+
+1677027336 source:c:\users\pocho\desktop\taller\taller i - lic. informática 21-02-23\main.cpp
+	<stdio.h>
+	"archivo.h"
+	"fecha.h"
+	"comandos.h"
+	"miembro.h"
+
+1677009325 source:c:\users\pocho\desktop\taller\taller i - lic. informática 21-02-23\stringdinamico.cpp
+	<stdio.h>
+	"stringdinamico.h"
+
+1677027680 source:c:\users\pocho\desktop\taller\taller i - lic. informática 21-02-23\miembro.cpp
+	<stdio.h>
+	"miembro.h"
+
+1677026691 c:\users\pocho\desktop\taller\taller i - lic. informática 21-02-23\miembro.h
+	"fecha.h"
+
+1677003280 source:c:\users\pocho\desktop\taller\taller i - lic. informática 21-02-23 0.2\archivo.cpp
+	<stdio.h>
+	"archivo.h"
+
+1669366330 c:\users\pocho\desktop\taller\taller i - lic. informática 21-02-23 0.2\archivo.h
+	"stringdinamico.h"
+
+1677026673 c:\users\pocho\desktop\taller\taller i - lic. informática 21-02-23 0.2\stringdinamico.h
+	"boolean.h"
+
+1661458300 c:\users\pocho\desktop\taller\taller i - lic. informática 21-02-23 0.2\boolean.h
+
+1676537062 source:c:\users\pocho\desktop\taller\taller i - lic. informática 21-02-23 0.2\boolean.cpp
+	<stdio.h>
+	"boolean.h"
+
+1677009584 source:c:\users\pocho\desktop\taller\taller i - lic. informática 21-02-23 0.2\comandos.cpp
+	<stdio.h>
+	"comandos.h"
+
+1677008712 c:\users\pocho\desktop\taller\taller i - lic. informática 21-02-23 0.2\comandos.h
+	"listastrings.h"
+
+1677006296 c:\users\pocho\desktop\taller\taller i - lic. informática 21-02-23 0.2\listastrings.h
+	"stringdinamico.h"
+
+1677095125 source:c:\users\pocho\desktop\taller\taller i - lic. informática 21-02-23 0.2\fecha.cpp
+	<stdio.h>
+	"fecha.h"
+
+1677023127 c:\users\pocho\desktop\taller\taller i - lic. informática 21-02-23 0.2\fecha.h
+	"stringdinamico.h"
+
+1677008325 source:c:\users\pocho\desktop\taller\taller i - lic. informática 21-02-23 0.2\listastrings.cpp
+	<stdio.h>
+	"listastrings.h"
+
+1677095669 source:c:\users\pocho\desktop\taller\taller i - lic. informática 21-02-23 0.2\main.cpp
+	<stdio.h>
+	"archivo.h"
+	"fecha.h"
+	"comandos.h"
+	"miembro.h"
+	"miembrolista.h"
+
+1677027731 c:\users\pocho\desktop\taller\taller i - lic. informática 21-02-23 0.2\miembro.h
+	"fecha.h"
+
+1677094052 source:c:\users\pocho\desktop\taller\taller i - lic. informática 21-02-23 0.2\miembro.cpp
+	<stdio.h>
+	"miembro.h"
+
+1677009325 source:c:\users\pocho\desktop\taller\taller i - lic. informática 21-02-23 0.2\stringdinamico.cpp
+	<stdio.h>
+	"stringdinamico.h"
+
+1677096094 source:c:\users\pocho\desktop\taller\taller i - lic. informática 21-02-23 0.2\miembrolista.cpp
+	<stdio.h>
+	"miembrolista.h"
+
+1677096065 c:\users\pocho\desktop\taller\taller i - lic. informática 21-02-23 0.2\miembrolista.h
+	"miembro.h"
+
+1677003280 source:c:\users\pocho\desktop\taller\taller i - lic. informática 22-02-23\archivo.cpp
+	<stdio.h>
+	"archivo.h"
+
+1669366330 c:\users\pocho\desktop\taller\taller i - lic. informática 22-02-23\archivo.h
+	"stringdinamico.h"
+
+1677183712 c:\users\pocho\desktop\taller\taller i - lic. informática 22-02-23\stringdinamico.h
+	"boolean.h"
+
+1661458300 c:\users\pocho\desktop\taller\taller i - lic. informática 22-02-23\boolean.h
+
+1676537062 source:c:\users\pocho\desktop\taller\taller i - lic. informática 22-02-23\boolean.cpp
+	<stdio.h>
+	"boolean.h"
+
+1677095125 source:c:\users\pocho\desktop\taller\taller i - lic. informática 22-02-23\fecha.cpp
+	<stdio.h>
+	"fecha.h"
+
+1677023127 c:\users\pocho\desktop\taller\taller i - lic. informática 22-02-23\fecha.h
+	"stringdinamico.h"
+
+1677267982 source:c:\users\pocho\desktop\taller\taller i - lic. informática 22-02-23\listastrings.cpp
+	<stdio.h>
+	"listastrings.h"
+
+1677193860 c:\users\pocho\desktop\taller\taller i - lic. informática 22-02-23\listastrings.h
+	"stringdinamico.h"
+
+1677268683 source:c:\users\pocho\desktop\taller\taller i - lic. informática 22-02-23\main.cpp
+	<stdio.h>
+	"archivo.h"
+	"fecha.h"
+	"comandos.h"
+	"miembro.h"
+	"miembrolista.h"
+	"familiareal.h"
+	"listasucesion.h"
+
+1677176814 c:\users\pocho\desktop\taller\taller i - lic. informática 22-02-23\comandos.h
+	"listastrings.h"
+
+1677191959 c:\users\pocho\desktop\taller\taller i - lic. informática 22-02-23\miembro.h
+	"fecha.h"
+
+1677267982 c:\users\pocho\desktop\taller\taller i - lic. informática 22-02-23\miembrolista.h
+	"miembro.h"
+
+1677191959 source:c:\users\pocho\desktop\taller\taller i - lic. informática 22-02-23\miembro.cpp
+	<stdio.h>
+	"miembro.h"
+
+1677268009 source:c:\users\pocho\desktop\taller\taller i - lic. informática 22-02-23\miembrolista.cpp
+	<stdio.h>
+	"miembrolista.h"
+
+1677176814 source:c:\users\pocho\desktop\taller\taller i - lic. informática 22-02-23\comandos.cpp
+	<stdio.h>
+	"comandos.h"
+
+1677183712 source:c:\users\pocho\desktop\taller\taller i - lic. informática 22-02-23\stringdinamico.cpp
+	<stdio.h>
+	"stringdinamico.h"
+
+1677192392 source:c:\users\pocho\desktop\taller\taller i - lic. informática 22-02-23\familiareal.cpp
+	<stdio.h>
+	"familiareal.h"
+
+1677192392 c:\users\pocho\desktop\taller\taller i - lic. informática 22-02-23\familiareal.h
+	"miembro.h"
+
+1677268683 c:\users\pocho\desktop\taller\taller i - lic. informática 22-02-23\listasucesion.h
+	"miembrolista.h"
+
+1677268312 source:c:\users\pocho\desktop\taller\taller i - lic. informática 22-02-23\listasucesion.cpp
+	<stdio.h>
+	"listasucesion.h"
+
+1677003280 source:c:\users\pocho\desktop\taller\taller i - lic. informática 24-02-23\archivo.cpp
+	<stdio.h>
+	"archivo.h"
+
+1669366330 c:\users\pocho\desktop\taller\taller i - lic. informática 24-02-23\archivo.h
+	"stringdinamico.h"
+
+1677183712 c:\users\pocho\desktop\taller\taller i - lic. informática 24-02-23\stringdinamico.h
+	"boolean.h"
+
+1661458300 c:\users\pocho\desktop\taller\taller i - lic. informática 24-02-23\boolean.h
+
+1676537062 source:c:\users\pocho\desktop\taller\taller i - lic. informática 24-02-23\boolean.cpp
+	<stdio.h>
+	"boolean.h"
+
+1677176814 source:c:\users\pocho\desktop\taller\taller i - lic. informática 24-02-23\comandos.cpp
+	<stdio.h>
+	"comandos.h"
+
+1677176814 c:\users\pocho\desktop\taller\taller i - lic. informática 24-02-23\comandos.h
+	"listastrings.h"
+
+1677435659 c:\users\pocho\desktop\taller\taller i - lic. informática 24-02-23\listastrings.h
+	"stringdinamico.h"
+
+1677354683 source:c:\users\pocho\desktop\taller\taller i - lic. informática 24-02-23\familiareal.cpp
+	<stdio.h>
+	"familiareal.h"
+
+1677354665 c:\users\pocho\desktop\taller\taller i - lic. informática 24-02-23\familiareal.h
+	"miembro.h"
+
+1677354641 c:\users\pocho\desktop\taller\taller i - lic. informática 24-02-23\miembro.h
+	"fecha.h"
+
+1677023127 c:\users\pocho\desktop\taller\taller i - lic. informática 24-02-23\fecha.h
+	"stringdinamico.h"
+
+1677095125 source:c:\users\pocho\desktop\taller\taller i - lic. informática 24-02-23\fecha.cpp
+	<stdio.h>
+	"fecha.h"
+
+1677437707 source:c:\users\pocho\desktop\taller\taller i - lic. informática 24-02-23\listastrings.cpp
+	<stdio.h>
+	"listastrings.h"
+
+1677438143 source:c:\users\pocho\desktop\taller\taller i - lic. informática 24-02-23\main.cpp
+	<stdio.h>
+	"parsing.h"
+
+1677434410 c:\users\pocho\desktop\taller\taller i - lic. informática 24-02-23\miembrolista.h
+	"miembro.h"
+
+1677435106 c:\users\pocho\desktop\taller\taller i - lic. informática 24-02-23\listasucesion.h
+	"miembrolista.h"
+
+1677434858 source:c:\users\pocho\desktop\taller\taller i - lic. informática 24-02-23\miembro.cpp
+	<stdio.h>
+	"miembro.h"
+
+1677434410 source:c:\users\pocho\desktop\taller\taller i - lic. informática 24-02-23\miembrolista.cpp
+	<stdio.h>
+	"miembrolista.h"
+
+1677183712 source:c:\users\pocho\desktop\taller\taller i - lic. informática 24-02-23\stringdinamico.cpp
+	<stdio.h>
+	"stringdinamico.h"
+
+1677436604 source:c:\users\pocho\desktop\taller\taller i - lic. informática 24-02-23\listasucesion.cpp
+	<stdio.h>
+	"listasucesion.h"
+
+1677433715 source:c:\users\pocho\desktop\taller\taller i - lic. informática 24-02-23\parsing.cpp
+	<stdio.h>
+	"parsing.h"
+
+1677433715 c:\users\pocho\desktop\taller\taller i - lic. informática 24-02-23\parsing.h
+	"familiareal.h"
+	"listasucesion.h"
+	"comandos.h"
+
+1677003280 source:c:\users\pocho\desktop\taller\taller i - lic. informática 26-02-23\archivo.cpp
+	<stdio.h>
+	"archivo.h"
+
+1669366330 c:\users\pocho\desktop\taller\taller i - lic. informática 26-02-23\archivo.h
+	"stringdinamico.h"
+
+1677468053 c:\users\pocho\desktop\taller\taller i - lic. informática 26-02-23\stringdinamico.h
+	"boolean.h"
+
+1661458300 c:\users\pocho\desktop\taller\taller i - lic. informática 26-02-23\boolean.h
+
+1676537062 source:c:\users\pocho\desktop\taller\taller i - lic. informática 26-02-23\boolean.cpp
+	<stdio.h>
+	"boolean.h"
+
+1677176814 source:c:\users\pocho\desktop\taller\taller i - lic. informática 26-02-23\comandos.cpp
+	<stdio.h>
+	"comandos.h"
+
+1677176814 c:\users\pocho\desktop\taller\taller i - lic. informática 26-02-23\comandos.h
+	"listastrings.h"
+
+1677552049 c:\users\pocho\desktop\taller\taller i - lic. informática 26-02-23\listastrings.h
+	"stringdinamico.h"
+
+1677614590 source:c:\users\pocho\desktop\taller\taller i - lic. informática 26-02-23\familiareal.cpp
+	<stdio.h>
+	"familiareal.h"
+
+1677354665 c:\users\pocho\desktop\taller\taller i - lic. informática 26-02-23\familiareal.h
+	"miembro.h"
+
+1677551432 c:\users\pocho\desktop\taller\taller i - lic. informática 26-02-23\miembro.h
+	"fecha.h"
+
+1677023127 c:\users\pocho\desktop\taller\taller i - lic. informática 26-02-23\fecha.h
+	"stringdinamico.h"
+
+1677519892 source:c:\users\pocho\desktop\taller\taller i - lic. informática 26-02-23\fecha.cpp
+	<stdio.h>
+	"fecha.h"
+
+1677552047 source:c:\users\pocho\desktop\taller\taller i - lic. informática 26-02-23\listastrings.cpp
+	<stdio.h>
+	"listastrings.h"
+
+1677616928 source:c:\users\pocho\desktop\taller\taller i - lic. informática 26-02-23\listasucesion.cpp
+	<stdio.h>
+	"listasucesion.h"
+
+1677551944 c:\users\pocho\desktop\taller\taller i - lic. informática 26-02-23\listasucesion.h
+	"miembrolista.h"
+
+1677551432 c:\users\pocho\desktop\taller\taller i - lic. informática 26-02-23\miembrolista.h
+	"miembro.h"
+
+1677614568 source:c:\users\pocho\desktop\taller\taller i - lic. informática 26-02-23\miembro.cpp
+	<stdio.h>
+	"miembro.h"
+
+1677616928 source:c:\users\pocho\desktop\taller\taller i - lic. informática 26-02-23\miembrolista.cpp
+	<stdio.h>
+	"miembrolista.h"
+
+1677616928 source:c:\users\pocho\desktop\taller\taller i - lic. informática 26-02-23\parsing.cpp
+	<stdio.h>
+	"parsing.h"
+	"archivo.h"
+
+1677613350 c:\users\pocho\desktop\taller\taller i - lic. informática 26-02-23\parsing.h
+	"familiareal.h"
+	"listasucesion.h"
+	"comandos.h"
+
+1677183712 source:c:\users\pocho\desktop\taller\taller i - lic. informática 26-02-23\stringdinamico.cpp
+	<stdio.h>
+	"stringdinamico.h"
+
+1677615368 source:c:\users\pocho\desktop\taller\taller i - lic. informática 26-02-23\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"parsing.h"
+	"archivo.h"
+	"menu.h"
+
+1677611039 source:c:\users\pocho\desktop\taller\taller i - lic. informática 26-02-23\menu.cpp
+	<stdio.h>
+
+1677611048 c:\users\pocho\desktop\taller\taller i - lic. informática 26-02-23\menu.h
+
+1677003280 source:c:\users\pocho\desktop\taller\taller i - lic. informática terminado\archivo.cpp
+	<stdio.h>
+	"archivo.h"
+
+1669366330 c:\users\pocho\desktop\taller\taller i - lic. informática terminado\archivo.h
+	"stringdinamico.h"
+
+1677640619 c:\users\pocho\desktop\taller\taller i - lic. informática terminado\stringdinamico.h
+	"boolean.h"
+
+1661458300 c:\users\pocho\desktop\taller\taller i - lic. informática terminado\boolean.h
+
+1676537062 source:c:\users\pocho\desktop\taller\taller i - lic. informática terminado\boolean.cpp
+	<stdio.h>
+	"boolean.h"
+
+1677176814 source:c:\users\pocho\desktop\taller\taller i - lic. informática terminado\comandos.cpp
+	<stdio.h>
+	"comandos.h"
+
+1677176814 c:\users\pocho\desktop\taller\taller i - lic. informática terminado\comandos.h
+	"listastrings.h"
+
+1677640288 c:\users\pocho\desktop\taller\taller i - lic. informática terminado\listastrings.h
+	"stringdinamico.h"
+
+1677640889 source:c:\users\pocho\desktop\taller\taller i - lic. informática terminado\familiareal.cpp
+	<stdio.h>
+	"familiareal.h"
+
+1677640889 c:\users\pocho\desktop\taller\taller i - lic. informática terminado\familiareal.h
+	"miembro.h"
+
+1677551432 c:\users\pocho\desktop\taller\taller i - lic. informática terminado\miembro.h
+	"fecha.h"
+
+1677023127 c:\users\pocho\desktop\taller\taller i - lic. informática terminado\fecha.h
+	"stringdinamico.h"
+
+1677519892 source:c:\users\pocho\desktop\taller\taller i - lic. informática terminado\fecha.cpp
+	<stdio.h>
+	"fecha.h"
+
+1677640288 source:c:\users\pocho\desktop\taller\taller i - lic. informática terminado\listastrings.cpp
+	<stdio.h>
+	"listastrings.h"
+
+1677626072 source:c:\users\pocho\desktop\taller\taller i - lic. informática terminado\listasucesion.cpp
+	<stdio.h>
+	"listasucesion.h"
+
+1677551944 c:\users\pocho\desktop\taller\taller i - lic. informática terminado\listasucesion.h
+	"miembrolista.h"
+
+1677551432 c:\users\pocho\desktop\taller\taller i - lic. informática terminado\miembrolista.h
+	"miembro.h"
+
+1677694450 source:c:\users\pocho\desktop\taller\taller i - lic. informática terminado\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"parsing.h"
+	"archivo.h"
+
+1677639799 c:\users\pocho\desktop\taller\taller i - lic. informática terminado\parsing.h
+	"familiareal.h"
+	"listasucesion.h"
+	"comandos.h"
+	"archivo.h"
+
+1677627236 source:c:\users\pocho\desktop\taller\taller i - lic. informática terminado\miembro.cpp
+	<stdio.h>
+	"miembro.h"
+
+1677626279 source:c:\users\pocho\desktop\taller\taller i - lic. informática terminado\miembrolista.cpp
+	<stdio.h>
+	"miembrolista.h"
+
+1677724274 source:c:\users\pocho\desktop\taller\taller i - lic. informática terminado\parsing.cpp
+	<stdio.h>
+	"parsing.h"
+
+1677640619 source:c:\users\pocho\desktop\taller\taller i - lic. informática terminado\stringdinamico.cpp
+	<stdio.h>
+	"stringdinamico.h"
+
+1677003280 source:c:\users\pocho\desktop\taller\taller i - lic. informática terminado 2.0\archivo.cpp
+	<stdio.h>
+	"archivo.h"
+
+1669366330 c:\users\pocho\desktop\taller\taller i - lic. informática terminado 2.0\archivo.h
+	"stringdinamico.h"
+
+1677640619 c:\users\pocho\desktop\taller\taller i - lic. informática terminado 2.0\stringdinamico.h
+	"boolean.h"
+
+1661458300 c:\users\pocho\desktop\taller\taller i - lic. informática terminado 2.0\boolean.h
+
+1676537062 source:c:\users\pocho\desktop\taller\taller i - lic. informática terminado 2.0\boolean.cpp
+	<stdio.h>
+	"boolean.h"
+
+1677176814 source:c:\users\pocho\desktop\taller\taller i - lic. informática terminado 2.0\comandos.cpp
+	<stdio.h>
+	"comandos.h"
+
+1677176814 c:\users\pocho\desktop\taller\taller i - lic. informática terminado 2.0\comandos.h
+	"listastrings.h"
+
+1677640288 c:\users\pocho\desktop\taller\taller i - lic. informática terminado 2.0\listastrings.h
+	"stringdinamico.h"
+
+1678152521 source:c:\users\pocho\desktop\taller\taller i - lic. informática terminado 2.0\familiareal.cpp
+	<stdio.h>
+	"familiareal.h"
+
+1677640889 c:\users\pocho\desktop\taller\taller i - lic. informática terminado 2.0\familiareal.h
+	"miembro.h"
+
+1677551432 c:\users\pocho\desktop\taller\taller i - lic. informática terminado 2.0\miembro.h
+	"fecha.h"
+
+1677023127 c:\users\pocho\desktop\taller\taller i - lic. informática terminado 2.0\fecha.h
+	"stringdinamico.h"
+
+1677519892 source:c:\users\pocho\desktop\taller\taller i - lic. informática terminado 2.0\fecha.cpp
+	<stdio.h>
+	"fecha.h"
+
+1677987624 source:c:\users\pocho\desktop\taller\taller i - lic. informática terminado 2.0\listastrings.cpp
+	<stdio.h>
+	"listastrings.h"
+
+1678154162 source:c:\users\pocho\desktop\taller\taller i - lic. informática terminado 2.0\listasucesion.cpp
+	<stdio.h>
+	"listasucesion.h"
+
+1677551944 c:\users\pocho\desktop\taller\taller i - lic. informática terminado 2.0\listasucesion.h
+	"miembrolista.h"
+
+1677551432 c:\users\pocho\desktop\taller\taller i - lic. informática terminado 2.0\miembrolista.h
+	"miembro.h"
+
+1678153080 source:c:\users\pocho\desktop\taller\taller i - lic. informática terminado 2.0\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"parsing.h"
+
+1677639799 c:\users\pocho\desktop\taller\taller i - lic. informática terminado 2.0\parsing.h
+	"familiareal.h"
+	"listasucesion.h"
+	"comandos.h"
+	"archivo.h"
+
+1678152800 source:c:\users\pocho\desktop\taller\taller i - lic. informática terminado 2.0\miembro.cpp
+	<stdio.h>
+	"miembro.h"
+
+1678155004 source:c:\users\pocho\desktop\taller\taller i - lic. informática terminado 2.0\miembrolista.cpp
+	<stdio.h>
+	"miembrolista.h"
+
+1678219373 source:c:\users\pocho\desktop\taller\taller i - lic. informática terminado 2.0\parsing.cpp
+	<stdio.h>
+	"parsing.h"
+
+1677640619 source:c:\users\pocho\desktop\taller\taller i - lic. informática terminado 2.0\stringdinamico.cpp
+	<stdio.h>
+	"stringdinamico.h"
+
+1677003280 source:c:\users\pocho\desktop\taller lic.informatica\taller i - lic. informática\archivo.cpp
+	<stdio.h>
+	"archivo.h"
+
+1669366330 c:\users\pocho\desktop\taller lic.informatica\taller i - lic. informática\archivo.h
+	"stringdinamico.h"
+
+1677640619 c:\users\pocho\desktop\taller lic.informatica\taller i - lic. informática\stringdinamico.h
+	"boolean.h"
+
+1661458300 c:\users\pocho\desktop\taller lic.informatica\taller i - lic. informática\boolean.h
+
+1676537062 source:c:\users\pocho\desktop\taller lic.informatica\taller i - lic. informática\boolean.cpp
+	<stdio.h>
+	"boolean.h"
+
+1677176814 source:c:\users\pocho\desktop\taller lic.informatica\taller i - lic. informática\comandos.cpp
+	<stdio.h>
+	"comandos.h"
+
+1677176814 c:\users\pocho\desktop\taller lic.informatica\taller i - lic. informática\comandos.h
+	"listastrings.h"
+
+1677640288 c:\users\pocho\desktop\taller lic.informatica\taller i - lic. informática\listastrings.h
+	"stringdinamico.h"
+
+1678152521 source:c:\users\pocho\desktop\taller lic.informatica\taller i - lic. informática\familiareal.cpp
+	<stdio.h>
+	"familiareal.h"
+
+1677640889 c:\users\pocho\desktop\taller lic.informatica\taller i - lic. informática\familiareal.h
+	"miembro.h"
+
+1677551432 c:\users\pocho\desktop\taller lic.informatica\taller i - lic. informática\miembro.h
+	"fecha.h"
+
+1677023127 c:\users\pocho\desktop\taller lic.informatica\taller i - lic. informática\fecha.h
+	"stringdinamico.h"
+
+1677519892 source:c:\users\pocho\desktop\taller lic.informatica\taller i - lic. informática\fecha.cpp
+	<stdio.h>
+	"fecha.h"
+
+1677987624 source:c:\users\pocho\desktop\taller lic.informatica\taller i - lic. informática\listastrings.cpp
+	<stdio.h>
+	"listastrings.h"
+
+1678154162 source:c:\users\pocho\desktop\taller lic.informatica\taller i - lic. informática\listasucesion.cpp
+	<stdio.h>
+	"listasucesion.h"
+
+1677551944 c:\users\pocho\desktop\taller lic.informatica\taller i - lic. informática\listasucesion.h
+	"miembrolista.h"
+
+1677551432 c:\users\pocho\desktop\taller lic.informatica\taller i - lic. informática\miembrolista.h
+	"miembro.h"
+
+1678153080 source:c:\users\pocho\desktop\taller lic.informatica\taller i - lic. informática\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	"parsing.h"
+
+1677639799 c:\users\pocho\desktop\taller lic.informatica\taller i - lic. informática\parsing.h
+	"familiareal.h"
+	"listasucesion.h"
+	"comandos.h"
+	"archivo.h"
+
+1678152800 source:c:\users\pocho\desktop\taller lic.informatica\taller i - lic. informática\miembro.cpp
+	<stdio.h>
+	"miembro.h"
+
+1678155004 source:c:\users\pocho\desktop\taller lic.informatica\taller i - lic. informática\miembrolista.cpp
+	<stdio.h>
+	"miembrolista.h"
+
+1678219373 source:c:\users\pocho\desktop\taller lic.informatica\taller i - lic. informática\parsing.cpp
+	<stdio.h>
+	"parsing.h"
+
+1677640619 source:c:\users\pocho\desktop\taller lic.informatica\taller i - lic. informática\stringdinamico.cpp
+	<stdio.h>
+	"stringdinamico.h"
+
